@@ -10,6 +10,8 @@ Player can jump using space and can also double jump.
 
 Currently the game has the basic endless running feature as well as a score.
 
+Note: This project has since been left unfinished due to other priorities and the features to be added will likely remain unfinished
+
 # Features to be added
 - Menu screens e.g. Main Menu, Game Over Menu, High Scores, etc.
 - Mobile Capability
